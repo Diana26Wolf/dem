@@ -1,0 +1,13 @@
+body{
+    background-image: url("Bloody Brilliant.jpg");
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: white;
+    font-size: 45px;
+}
+h3{
+    color: black;
+    font-weight: bold;
+}
